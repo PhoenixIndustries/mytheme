@@ -1,0 +1,6 @@
+baseurl = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme phownixos"
+googleAnalytics = "G-MEASUREMENT_ID"
+disqusShortname = "your-disqus-shortname"
